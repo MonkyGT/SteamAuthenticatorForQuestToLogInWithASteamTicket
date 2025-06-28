@@ -8,9 +8,8 @@ namespace SteamAuthenticatorForQuestToLogInWithASteamTicket
 {
     public class ModInfo
     {
-        public const string UUID = "yourname.yourmod";
-        public const string Name = "Mod";
-        public const string Author = "Your Name";
+        public const string Name = "SteamAuthenticatorForQuestToLogInWithASteamTicket";
+        public const string Author = "Monky";
         public const string Version = "1.0.0";
     }
     public class MelonLoaderInit : MelonMod;
