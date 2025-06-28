@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Project>
 	<PropertyGroup>
-		<GamePath>C:\Users\biggaboy\Downloads</GamePath>
+		<GamePath>C:\Users\user\Downloads</GamePath>
 		<GameAssemblyPath>$(GamePath)\BepInEx\interop</GameAssemblyPath>
 		<BepInExAssemblyPath>$(GamePath)\BepInEx\core</BepInExAssemblyPath>
 		<PluginsPath>$(GamePath)\BepInEx\plugins</PluginsPath>
