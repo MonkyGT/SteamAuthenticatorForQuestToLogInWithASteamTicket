@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Project>
 	<PropertyGroup>
-		<GamePath>C:\Users\user\Downloads</GamePath>
+		<GamePath>C:\Users\user\Documents\SteamAuthenticatorForQuestToLogInWithASteamTicket\Mod.dll</GamePath>
 	</PropertyGroup>
 	<PropertyGroup Condition="'$(CI)'=='TRUE'">
 		<GameAssemblyPath>.\Libs</GameAssemblyPath>
